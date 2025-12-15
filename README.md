@@ -30,8 +30,6 @@ The code supports the data processing, analysis, and figure generation presented
 - `w27acelleration.txt`  
   Acceleration signal recorded during an impact event.
 
-  -'W2 7'
-  Video fottage from test W27
 
 ---
 
